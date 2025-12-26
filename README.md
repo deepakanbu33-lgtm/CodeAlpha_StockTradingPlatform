@@ -19,6 +19,6 @@ Users can buy and sell stocks, view portfolio details, and check account balance
 
 ## How to Run
 1. Compile the program:
-   javac task4.java
+   javac task2.java
 2. Run the program:
-   java task4
+   java task2
